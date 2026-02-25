@@ -184,7 +184,7 @@
     "href": "submissions/w01/laporan.html#ringkasan-hasil-table-sanity-checks",
     "title": "3  Laporan Minggu 01 — Ringkasan Jawaban (diambil langsung dari answers.py)",
     "section": "3.3 Ringkasan hasil (table + sanity checks)",
-    "text": "3.3 Ringkasan hasil (table + sanity checks)\n\n\n\n\n\n\n\n\n\nTask\nStatus\nPreview\nNotes\n\n\n\n\n0\nQ01\nTODO\n\nImplement this task\n\n\n1\nQ02\nTODO\n\nImplement this task\n\n\n2\nQ03\nTODO\n\nImplement this task\n\n\n3\nQ04\nTODO\n\nImplement this task\n\n\n4\nQ05\nTODO\n\nImplement this task\n\n\n5\nQ06\nTODO\n\nImplement this task\n\n\n6\nQ07\nTODO\n\nImplement this task\n\n\n7\nQ08\nTODO\n\nImplement this task\n\n\n8\nQ09\nTODO\n\nImplement this task\n\n\n9\nQ10\nTODO\n\nImplement this task\n\n\n10\nQ11\nTODO\n\nImplement this task\n\n\n11\nQ12\nTODO\n\nImplement this task",
+    "text": "3.3 Ringkasan hasil (table + sanity checks)\n\n\n\n\n\n\n\n\n\nTask\nStatus\nPreview\nNotes\n\n\n\n\n0\nQ01\nOK\nFalse\n⚠️ Should be a probability (0..1)\n\n\n1\nQ02\nOK\nTrue\n\n\n\n2\nQ03\nOK\nTrue\n⚠️ Should be a probability (0..1)\n\n\n3\nQ04\nOK\n'C'\n⚠️ Should be a probability (0..1)\n\n\n4\nQ05\nOK\n'B'\n\n\n\n5\nQ06\nOK\n'A'\n⚠️ PMF check failed (nonneg + sum≈1)\n\n\n6\nQ07\nOK\n'C'\n\n\n\n7\nQ08\nOK\n36\n\n\n\n8\nQ09\nOK\n0.99\n\n\n\n9\nQ10\nOK\n12\n\n\n\n10\nQ11\nOK\n0.05\n\n\n\n11\nQ12\nOK\n0.02",
     "crumbs": [
       "<span class='chapter-number'>3</span>  <span class='chapter-title'>Laporan Minggu 01 — Ringkasan Jawaban (diambil langsung dari answers.py)</span>"
     ]
@@ -194,7 +194,7 @@
     "href": "submissions/w01/laporan.html#detail-output-per-task",
     "title": "3  Laporan Minggu 01 — Ringkasan Jawaban (diambil langsung dari answers.py)",
     "section": "3.4 Detail output per task",
-    "text": "3.4 Detail output per task\n\n\n### Q01 — TODO\n**Error/Info:** `NotImplementedError`\n\n### Q02 — TODO\n**Error/Info:** `NotImplementedError`\n\n### Q03 — TODO\n**Error/Info:** `NotImplementedError`\n\n### Q04 — TODO\n**Error/Info:** `NotImplementedError`\n\n### Q05 — TODO\n**Error/Info:** `NotImplementedError`\n\n### Q06 — TODO\n**Error/Info:** `NotImplementedError`\n\n### Q07 — TODO\n**Error/Info:** `NotImplementedError`\n\n### Q08 — TODO\n**Error/Info:** `NotImplementedError`\n\n### Q09 — TODO\n**Error/Info:** `NotImplementedError`\n\n### Q10 — TODO\n**Error/Info:** `NotImplementedError`\n\n### Q11 — TODO\n**Error/Info:** `NotImplementedError`\n\n### Q12 — TODO\n**Error/Info:** `NotImplementedError`",
+    "text": "3.4 Detail output per task\n\n\n### Q01 — OK\n```\nFalse\n```\n### Q02 — OK\n```\nTrue\n```\n### Q03 — OK\n```\nTrue\n```\n### Q04 — OK\n```\n'C'\n```\n### Q05 — OK\n```\n'B'\n```\n### Q06 — OK\n```\n'A'\n```\n### Q07 — OK\n```\n'C'\n```\n### Q08 — OK\n```\n36\n```\n### Q09 — OK\n```\n0.99\n```\n### Q10 — OK\n```\n12\n```\n### Q11 — OK\n```\n0.05\n```\n### Q12 — OK\n```\n0.02\n```",
     "crumbs": [
       "<span class='chapter-number'>3</span>  <span class='chapter-title'>Laporan Minggu 01 — Ringkasan Jawaban (diambil langsung dari answers.py)</span>"
     ]
