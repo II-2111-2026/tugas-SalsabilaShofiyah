@@ -12,15 +12,15 @@ Format jawaban:
 from __future__ import annotations
 def q01() -> bool:
     """[T/F] Total luas di bawah kurva fungsi padat probabilitas (PDF) selalu sama dengan 1."""
-    raise NotImplementedError
+    return True
 
 def q02() -> bool:
     """[T/F] Distribusi Normal Standar memiliki mean 0 dan variansi 1."""
-    raise NotImplementedError
+    return True
 
 def q03() -> bool:
     """[T/F] Pada distribusi kontinu, P(X ) selalu sama dengan P(X )."""
-    raise NotImplementedError
+    return True
 
 def q04() -> str:
     """[MC] Nilai yang bersesuaian dengan nilai pada distribusi
@@ -31,7 +31,7 @@ A) (−)/
 B) (+)/
 C) /(−)
 D) −"""
-    raise NotImplementedError
+    return 
 
 def q05() -> str:
     """[MC] Distribusi mana yang sering digunakan untuk memodelkan waktu antar kejadian
