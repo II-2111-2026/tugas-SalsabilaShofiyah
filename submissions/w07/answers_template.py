@@ -27,10 +27,10 @@ def q04() -> str:
 (,2)
 adalah:
 
-A) (−)/
+A) (-)/
 B) (+)/
-C) /(−)
-D) −"""
+C) /(-)
+D) -"""
     raise NotImplementedError
 
 def q05() -> str:
